@@ -29,6 +29,6 @@ The analysis focuses on several key metrics:
 
 ## 📂 Data Source
 The dataset used for this project was sourced from **Kaggle**, covering F1 seasons from 1950 to 2022.
-* *Dataset:* [Formula 1 World Championship (1950 - 2022)](https://www.kaggle.com/) *(You can insert the direct link here)*
+* *Dataset:* [Formula 1 World Championship (1950 - 2022)
 
 Developed by Davi Barcia - https://www.linkedin.com/in/davi-barcia-viana-35a31a323/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2WW0dBjATaWoehNXozR4%2Bg%3D%3D
